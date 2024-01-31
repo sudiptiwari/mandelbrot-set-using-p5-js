@@ -30,7 +30,7 @@ class Complex{
 
 function setup() {
   const aspect_ratio = (16/9);
-  mapping_range = 1;
+  const mapping_range = 1;
   let canvas;
   // canvas = createCanvas(windowHeight, windowHeight);
   // canvas.position(windowWidth/2-windowHeight/2,0);
