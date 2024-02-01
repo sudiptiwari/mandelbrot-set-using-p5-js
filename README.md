@@ -1,3 +1,6 @@
+# Demo Video:
+https://github.com/sudiptiwari/mandelbrot-set-using-p5-js/assets/96374316/aa02d6d8-0bcf-432a-9128-7327c66a958c
+
 # Mandelbrot Plot Generator
 
 This project is a Mandelbrot Plot generator implemented using the p5.js library inspired from [this video](https://www.youtube.com/watch?v=FFftmWSzgmk).
