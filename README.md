@@ -1,5 +1,5 @@
 # Demo Video:
-https://github.com/sudiptiwari/mandelbrot-set-using-p5-js/assets/96374316/aa02d6d8-0bcf-432a-9128-7327c66a958c
+https://github.com/sudiptiwari/mandelbrot-set-using-p5-js/assets/96374316/2c7c6c63-7a1d-4f30-9b94-bfc79bade6c5
 
 # Mandelbrot Plot Generator
 
